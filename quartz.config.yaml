@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: zh-CN
-  baseUrl: USERNAME.github.io/neiguan-site
+  baseUrl: victoryangn.github.io/neiguan-site
   ignorePatterns:
     - private
     - templates
