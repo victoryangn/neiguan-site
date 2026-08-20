@@ -13,5 +13,3 @@ replit.nix
 quartz/cli/tui/dist/
 .turbo/
 
-# Quartz 构建产物（由 prepare-content.sh 生成）
-content/
